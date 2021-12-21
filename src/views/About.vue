@@ -1,14 +1,11 @@
 <template>
   <div>
-    <appHeader />
       <div class="container">
     <div class="content-block">
 <h1>new text</h1>
     </div>
 </div>
     <router-view />
-    <appSideBar />
-    <appFooter />
   </div>
 </template>
 
